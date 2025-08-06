@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+#buttons {
+    display: block;
+}
+
+/* UNUSED; FOR FUTURE REFERENCE
+#information {
+    display: flex;
+    justify-content: space-around;
+
+    width: 100%;
+}
+*/
